@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kushwaha</h1>
-<h3>A passionate frontend developer from India</h3> <br>
+<h3>A Passionate Developer From India</h3> <br>
 
-- 🔭 I’m currently working on **Shopping Website**
+- 🔭 I’m currently working on **Application that based on Agriculture**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NYqqAB7APeg8QLFYSi78RwEDvpPU_GCH/view?usp=sharing">know more </a>  
 
