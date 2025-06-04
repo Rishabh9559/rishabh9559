@@ -1,13 +1,19 @@
-# <h1 align="center">Hi 👋, I'm Rishabh Kushwaha</h1>
-<h3>A Passionate Developer From India</h3> <br>
 
-- 🔭 I’m currently working on **Backend Development**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1gvYyRhGMUyqpKinhlSYg35zdnYOSQWvs/view?usp=drivesdk">know more </a>  
 
+# 💫 About Me:
+I’m Rishabh Kushwaha, a passionate and solution-driven Computer Science undergraduate at Sharda University, with a strong foundation in full-stack development and applied machine learning. With hands-on experience in Java, the MERN stack, and Python for deep learning, I enjoy building both innovative software solutions and impactful research projects.<br><br>I've led and collaborated on multiple projects ranging from a Recipe Sharing Platform and a boAt E-Commerce Clone to a full-stack B2B BizFlow platform, where I contributed as the backend developer. I’m also proud of my research on Tomato Leaf Disease Detection using Deep Learning, which was presented at the 2024 ICTACS conference and published in IEEE Xplore.<br><br>Whether it’s web development, AI model training, or system design, I bring creativity, adaptability, and a team-first mindset to every challenge. My technical toolkit includes Java, Node.js, React, MongoDB, Express, Python, TensorFlow, and more. Beyond the code, I excel in leadership, coordination, and decision-making, and I’m always eager to explore new technologies and make a meaningful impact.<br><br>Let’s connect and build something great — together.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<b>
-  Java<br>C <br> HTML<br> CSS <br> JavaScript <br> Mysql <br>Node.js<br>
-</b>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh9559) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rishabhkushwaha9559@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rishabh9559&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rishabh9559&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh9559&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
