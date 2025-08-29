@@ -3,7 +3,7 @@
 # 💫 About Me:
 I’m Rishabh Kushwaha, a passionate and solution-driven Computer Science undergraduate at Sharda University, with a strong foundation in full-stack development and applied machine learning. With hands-on experience in Java, the MERN stack, and Python for deep learning, I enjoy building both innovative software solutions and impactful research projects.<br><br>I've led and collaborated on multiple projects ranging from a Recipe Sharing Platform and a boAt E-Commerce Clone to a full-stack B2B BizFlow platform, where I contributed as the backend developer. I’m also proud of my research on Tomato Leaf Disease Detection using Deep Learning, which was presented at the 2024 ICTACS conference and published in IEEE Xplore.<br><br>Whether it’s web development, AI model training, or system design, I bring creativity, adaptability, and a team-first mindset to every challenge. My technical toolkit includes Java, Node.js, React, MongoDB, Express, Python, TensorFlow, and more. Beyond the code, I excel in leadership, coordination, and decision-making, and I’m always eager to explore new technologies and make a meaningful impact.<br><br>Let’s connect and build something great — together.<br>
 
-#### <a href="https://drive.google.com/file/d/1ZEG7sHTrR8QrkmDptl_tNZ0ICVmy1HHk/view?usp=sharing"> Resume </a>
+#### <a href="https://drive.google.com/file/d/1mdzYCq8VMcGwj9xyzfX6UVauo9J9GhTK/view?usp=sharing"> Resume </a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh9559) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rishabhkushwaha9559@gmail.com) 
